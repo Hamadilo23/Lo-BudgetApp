@@ -1,4 +1,4 @@
-package My.Budget.demo.Main;
+package My.Budget.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

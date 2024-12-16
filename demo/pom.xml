@@ -72,7 +72,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>My.Budget.demo.Main</mainClass>
+                    <mainClass> My.Budget.demo</mainClass>
                 </configuration>
             </plugin>
 
@@ -80,7 +80,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>My.Budget.demo.Main</mainClass>
+                    <mainClass> My.Budget.demo</mainClass>
                 </configuration>
             </plugin>
         </plugins>
